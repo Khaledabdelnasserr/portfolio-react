@@ -107,3 +107,9 @@
         border-radius: 40px;
     }
 }
+
+@media (max-width: 428px) {
+    .hero p {
+        width: 100%;
+    }
+}
